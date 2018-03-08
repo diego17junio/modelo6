@@ -22,7 +22,7 @@ G = 6.673e-11  # Constante de gravitación universal (N m2/kg2).
 MT = 5.972e24  # Masa terrestre (kg).
 MU = G * MT
 RT = 6378136.3  # Radio terrestre (m).
-GRAV = MU / RT**2  # Aceleración de la gravedad a nivel del mar (m/s2).
+GRAV = MU / RT**2  # Aceleración gravitatoria a nivel del mar (m/s2).
 
 
 #------------------------CARACTERÍSTICAS DE LA AERONAVE------------------------
